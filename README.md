@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👯 I’m looking to collaborate on [6ammart React User App](https://6ammart-react.6amtech.com/)
+- 👯 I’m collaborating on this project [6ammart React User App](https://6ammart-react.6amtech.com/)
 
 - 🤝 I love to discuss about **Javascript**
 
