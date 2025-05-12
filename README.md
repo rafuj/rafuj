@@ -28,8 +28,8 @@
 ### 🚀 Projects I’ve Worked On
 
 - 🔗 **[Menumium SAAS React Tenant Admin](https://portal.menumium.com/)** – Next.js + Tailwind CSS
-- 🔗 **[StackFood Frontend](https://stackfood-react.6amtech.com/)** – Next.js + Material UI + Redux + React Query + React Toolkit and Many more
-- 🔗 **[6ammart User App](https://6ammart-react.6amtech.com/)** – Ecommerce Website built with Next.js + Material UI + Redux + React Query + React Toolkit and Many more
+- 🔗 **[StackFood React User Website](https://stackfood-react.6amtech.com/)** – Next.js + Material UI + Redux + React Query + React Toolkit and Many more
+- 🔗 **[6ammart React User App](https://6ammart-react.6amtech.com/)** – Ecommerce Website built with Next.js + Material UI + Redux + React Query + React Toolkit and Many more
 
 ---
 
