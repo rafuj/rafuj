@@ -29,7 +29,7 @@
 
 - 🔗 **[Menumium SAAS React Tenant Admin](https://portal.menumium.com/)** – Next.js + Tailwind CSS  
 - 🔗 **[StackFood Frontend](https://stackfood-react.6amtech.com/)** – Next.js + Material UI  
-- 🔗 **6ammart User App** – Single Vendor App UI built with React + Material UI
+- 🔗 **6ammart User App(https://6ammart-react.6amtech.com/)** – Single Vendor App UI built with React + Material UI
 
 ---
 
