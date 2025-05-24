@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abu Raihan Rafuj</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast | UI Specialist</h3>
+<h3 align="center">Frontend Developer | React & Next.js Expert | UI Specialist</h3>
 
 <p align="center">
   <a href="https://rafuj.themexcoder.com" target="_blank">
